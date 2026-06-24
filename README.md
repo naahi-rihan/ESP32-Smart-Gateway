@@ -33,8 +33,8 @@ The system outputs environment telemetry strings tracking raw gas, thermal, and 
     "h2s": 2.1,
     "pm25": 35.0,
     "pm10": 62.0,
-
-This is an ESP32-based multi-file smart gateway using built-in RTC clock timing, background Wi-Fi auto-reconnection mechanics, custom parameters saved to NVS Preferences, and consolidated dual-channel MQTT telemetry.
     "thi": 79.1
   }
 }
+
+This is an ESP32-based multi-file smart gateway using built-in RTC clock timing, background Wi-Fi auto-reconnection mechanics, custom parameters saved to NVS Preferences, and consolidated dual-channel MQTT telemetry.
