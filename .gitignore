@@ -1,0 +1,9 @@
+build/
+bin/
+.build/
+*.hex
+*.bin
+*.elf
+.vscode/
+.idea/
+.platformio/
